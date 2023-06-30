@@ -22,7 +22,14 @@ O Banco App é um aplicativo de gerenciamento bancário simples desenvolvido em 
 
 
 
-  [login.png](https://postimg.cc/RWFC2WpZ)    [menu.png](https://postimg.cc/0MDMBzWB)
+  [login.png](https://postimg.cc/RWFC2WpZ)
+
+
+
+
+   [menu.png](https://postimg.cc/0MDMBzWB)
+
+
 
   
 
