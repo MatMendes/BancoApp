@@ -60,8 +60,7 @@ O aplicativo será iniciado no dispositivo/emulador.
 Contribuições são bem-vindas! Se você encontrar problemas, bugs ou tiver sugestões para melhorias, abra uma issue ou envie um pull request. Agradecemos seu feedback!
 
 Autor: Matheus Mendes
-Licença
-Este projeto está licenciado sob a MIT License.
+
 
 #Contato:
 email: matheusmendes55@outlook.com
