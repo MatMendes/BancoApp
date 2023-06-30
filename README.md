@@ -28,8 +28,6 @@ O App foi desenvolvido utilizando as seguintes ferramentas e tecnologias:
 - Ambiente de desenvolvimento: Node.js
 - Controle de versão: Git
 
-Adicione aqui algumas capturas de tela do aplicativo em execução. Isso ajudará os usuários a visualizar a interface do aplicativo e suas principais funcionalidades.
-
 ## Instalação
 
 Certifique-se de ter o Node.js e o React Native configurados em seu ambiente de desenvolvimento.
