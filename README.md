@@ -54,7 +54,9 @@ Execute o aplicativo em um dispositivo ou emulador: npm start
 Certifique-se de ter um dispositivo/emulador conectado ou utilize um dos seguintes comandos para executar o aplicativo em um dispositivo específico:
 
 Android: npm run android
+
 iOS: npm run ios
+
 O aplicativo será iniciado no dispositivo/emulador.
 
 Contribuições são bem-vindas! Se você encontrar problemas, bugs ou tiver sugestões para melhorias, abra uma issue ou envie um pull request. Agradecemos seu feedback!
