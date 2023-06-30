@@ -38,7 +38,9 @@ Certifique-se de ter o Node.js e o React Native configurados em seu ambiente de 
    git clone https://github.com/seu-usuario/banco-app.git
 
 Navegue até o diretório do projeto: cd banco-app
+
 Instale as dependências: npm install
+
 Execute o aplicativo em um dispositivo ou emulador: npm start
 
 Certifique-se de ter um dispositivo/emulador conectado ou utilize um dos seguintes comandos para executar o aplicativo em um dispositivo específico:
