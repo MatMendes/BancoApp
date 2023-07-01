@@ -61,7 +61,7 @@ O aplicativo será iniciado no dispositivo/emulador.
 
 Contribuições são bem-vindas! Se você encontrar problemas, bugs ou tiver sugestões para melhorias, abra uma issue ou envie um pull request. Agradecemos seu feedback!
 
-Autor: Matheus Mendes
+Devs: Matheus Mendes, Vanessa Coelho
 
 #Contato:
 email: matheusmendes55@outlook.com
